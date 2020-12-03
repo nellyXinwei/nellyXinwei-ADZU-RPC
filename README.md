@@ -1,7 +1,7 @@
 <p align="center">
  <img width="300px" src="https://github.com/nellyXinwei/nellyXinwei-ADZU-RPC/blob/master/assets/adzu.png" align="center" alt="ADZU" />
  <h1 align="center">ADZU-RPC 🦅</h1>
- <h3 align="center">Ateneo de Zoom University</h3>
+ <h3 align="center">Ateneo de Zoom University RPC App</h3>
 </p>
 
 
