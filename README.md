@@ -1,5 +1,6 @@
+<center>
 <img src="https://github.com/nellyXinwei/nellyXinwei-ADZU-RPC/blob/master/assets/adzu.png" width="50%"/>
-
+</center>
 # ADZU-RPC 🦅
 ### 🦅 ABOUT
 
