@@ -15,18 +15,18 @@
 
 ## Some Notes When Trying it out!
 ### Instructions:
-Git clone repo and cd to the repo on terminal
-Run "python3 main.py on cli"
+>Git clone repo and cd to the repo on terminal
+>Run "python3 main.py on cli"
 
 ### Updates:
--CLI app with options to customise text displayed on ur rich presences
--Plan: Turn this to desktop util app with electron framework + database (for now preset datas are in the file mismo hehe)
+>CLI app with options to customise text displayed on ur rich presences
+?Plan: Turn this to desktop util app with electron framework + database (for now preset datas are in the file mismo hehe)
 
-*Will solve bugs and add more features soon hehe, if yall have issues, pls tell me when yall try the app :smile: 
+>>Will solve bugs and add more features soon hehe, if yall have issues, pls tell me when yall try the app :smile: 
 
 ### Problems:
--Sockets stuff get interrupted so rpc gets disconnected sometimes
--Might not work on windows tho added conditions when windows or unix os, i dont have windows :<<
--Still in Early development so use the master branch ig when u try it out
+>Sockets stuff get interrupted so rpc gets disconnected sometimes
+>Might not work on windows tho added conditions when windows or unix os, i dont have windows :<<
+>Still in Early development so use the master branch ig when u try it out
 
-*This just random fun app lang im just trying to make hehe. thx
+>>This just random fun app lang im just trying to make hehe. thx
