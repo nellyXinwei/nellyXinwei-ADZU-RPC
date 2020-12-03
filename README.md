@@ -5,7 +5,7 @@
 </p>
 
 
-<img width="200px" src="https://github.com/nellyXinwei/nellyXinwei-ADZU-RPC/blob/master/assets/adzu_bird.png" align="right" alt="ADZU" />
+<img width="250px" src="https://github.com/nellyXinwei/nellyXinwei-ADZU-RPC/blob/master/assets/adzu_bird.png" align="right" alt="ADZU" />
 
 ### 🦅 ABOUT
 
