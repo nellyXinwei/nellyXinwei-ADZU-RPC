@@ -1,8 +1,6 @@
+<img src="https://github.com/nellyXinwei/nellyXinwei-ADZU-RPC/blob/master/assets/adzu.png" width="100%"/>
+
 # ADZU-RPC 🦅
-
-<img src="https://github.com/nellyXinwei/nellyXinwei-ADZU-RPC/blob/master/assets/adzu.png" align="right" width="200px"/>
-<img src="https://github.com/nellyXinwei/nellyXinwei-ADZU-RPC/blob/master/assets/adzu_bird.png" align="right" width="100px"/>
-
 ### 🦅 ABOUT
 
 >Author: 𝙉𝙚𝙡𝙨𝙤𝙣 𝙏. 𝘼𝙡𝙗𝙖 𝙅𝙧. 許鑫偉 | 𝙉𝙚𝙡𝙡𝙮 / GH:@nellyXinwei
