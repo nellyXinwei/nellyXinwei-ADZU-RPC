@@ -1,5 +1,5 @@
 <p align="center">
- <img width="500px" src="https://github.com/nellyXinwei/nellyXinwei-ADZU-RPC/blob/master/assets/adzu.png" align="center" alt="ADZU" />
+ <img width="300px" src="https://github.com/nellyXinwei/nellyXinwei-ADZU-RPC/blob/master/assets/adzu.png" align="center" alt="ADZU" />
  <h2 align="center">ADZU-RPC 🦅</h2>
  <h3 align="center">Ateneo de Zoom University</h3>
 </p>
