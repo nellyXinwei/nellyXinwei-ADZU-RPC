@@ -1,7 +1,10 @@
-<center>
-<img src="https://github.com/nellyXinwei/nellyXinwei-ADZU-RPC/blob/master/assets/adzu.png" width="50%"/>
-</center>
-# ADZU-RPC 🦅
+<p align="center">
+ <img width="100px" src="https://github.com/nellyXinwei/nellyXinwei-ADZU-RPC/blob/master/assets/adzu.png" align="center" alt="ADZU" />
+ <h2 align="center">ADZU-RPC 🦅</h2>
+ <p align="center">Ateneo de Zoom University</p>
+</p>
+
+
 ### 🦅 ABOUT
 
 >Author: 𝙉𝙚𝙡𝙨𝙤𝙣 𝙏. 𝘼𝙡𝙗𝙖 𝙅𝙧. 許鑫偉 | 𝙉𝙚𝙡𝙡𝙮 / GH:@nellyXinwei
