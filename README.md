@@ -1,5 +1,4 @@
-# Ateneo de Zoom University - Discord RPC 🦅
-
+# ADZU-RPC 🦅
 
 <img src="https://github.com/nellyXinwei/nellyXinwei-ADZU-RPC/blob/master/assets/adzu.png" align="right" width="200px"/>
 <img src="https://github.com/nellyXinwei/nellyXinwei-ADZU-RPC/blob/master/assets/adzu_bird.png" align="right" width="100px"/>
